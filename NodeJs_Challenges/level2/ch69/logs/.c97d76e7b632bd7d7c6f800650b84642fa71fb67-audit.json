@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\USER DATA 2025\\Desktop\\grids-apps-courses\\NodeJs_Challenges\\level2\\ch69\\logs\\.c97d76e7b632bd7d7c6f800650b84642fa71fb67-audit.json",
+    "files": [
+        {
+            "date": 1757511395408,
+            "name": "D:\\USER DATA 2025\\Desktop\\grids-apps-courses\\NodeJs_Challenges\\level2\\ch69\\logs\\app-2025-09-10.log",
+            "hash": "088cfa3757f585274627376347d92858cb208bd83906c831d51caa7db5256241"
+        }
+    ],
+    "hashType": "sha256"
+}

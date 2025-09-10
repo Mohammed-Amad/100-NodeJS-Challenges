@@ -1,0 +1,7 @@
+GET /posts:
+    if Redis has key "posts":
+        return cached data (source = cache)
+    else:
+        fetch posts from database
+        store posts in Redis with TTL = 60 seconds
+        return data (source = db)

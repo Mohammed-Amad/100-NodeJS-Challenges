@@ -1,0 +1,8 @@
+CSRF Concept
+
+CSRF allows attackers to perform actions on behalf of an authenticated user by exploiting cookie-based sessions.
+
+Mitigation in Express:
+Use csurf middleware to validate a CSRF token in each request:
+
+app.use(require("csurf")({ cookie: true }));

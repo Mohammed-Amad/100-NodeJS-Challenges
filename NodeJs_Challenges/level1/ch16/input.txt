@@ -1,0 +1,6 @@
+hi im in line 1 
+hi from line 2 
+now your in line 3
+were in line 4
+line 5
+line 6
